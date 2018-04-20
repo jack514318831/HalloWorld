@@ -52,6 +52,10 @@
         <Button Name="btnRegex" Grid.Row="3" Grid.Column="4" Height="40" Width="80" Margin="5" Click="btnRegex_Click">
             Regex
         </Button>
-        
+
+        <!--4. Row -->
+        <Button Name="btnReadData" Grid.Row="4" Grid.Column="4" Height="40" Width="80" Margin="5" Click="btnReadData_Click">
+            Regex
+        </Button>
     </Grid>
 </Window>

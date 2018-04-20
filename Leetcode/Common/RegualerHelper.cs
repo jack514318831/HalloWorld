@@ -48,5 +48,20 @@ namespace Common
             }
             return sb.ToString();
         }
+
+        //Get Solution
+
+        public static string GetSolution(string inputstr)
+        {
+            string pattern = "(?<=<div class=\"article-title\">)(.|\\n)*?(?=Rate this article)";
+            StringBuilder sb = new StringBuilder();
+            MatchCollection mtc = Regex.Matches(inputstr, pattern);
+            foreach (Match item in mtc)
+            {
+                sb.Append(item.ToString());
+                sb.AppendLine();
+            }
+            return sb.ToString();
+        }
     }
 }

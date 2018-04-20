@@ -14,3 +14,5 @@ C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.exe
 C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.pdb
 C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Common.dll
 C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Common.pdb
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Model.dll
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Model.pdb

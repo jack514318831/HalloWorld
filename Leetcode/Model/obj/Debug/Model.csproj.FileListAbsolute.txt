@@ -1,0 +1,5 @@
+C:\Users\g.he\Documents\CSharp\Leetcode\Model\bin\Debug\Model.dll
+C:\Users\g.he\Documents\CSharp\Leetcode\Model\bin\Debug\Model.pdb
+C:\Users\g.he\Documents\CSharp\Leetcode\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\g.he\Documents\CSharp\Leetcode\Model\obj\Debug\Model.dll
+C:\Users\g.he\Documents\CSharp\Leetcode\Model\obj\Debug\Model.pdb

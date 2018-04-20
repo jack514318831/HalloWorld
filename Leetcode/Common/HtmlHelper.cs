@@ -25,7 +25,10 @@ namespace Common
             }
             catch (Exception)
             {
-                throw;
+                
+            }
+            finally
+            {
             }
 
             return htmlstr;
