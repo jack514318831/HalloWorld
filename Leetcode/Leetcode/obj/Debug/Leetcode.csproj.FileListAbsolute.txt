@@ -1,0 +1,16 @@
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Leetcode.exe.config
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Leetcode.exe
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Leetcode.pdb
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.csprojResolveAssemblyReference.cache
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\MainWindow.g.cs
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\App.g.cs
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode_MarkupCompile.cache
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode_MarkupCompile.lref
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\MainWindow.baml
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.g.resources
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.Properties.Resources.resources
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.csproj.GenerateResource.Cache
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.exe
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\obj\Debug\Leetcode.pdb
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Common.dll
+C:\Users\g.he\Documents\CSharp\Leetcode\Leetcode\bin\Debug\Common.pdb
